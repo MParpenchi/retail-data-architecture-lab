@@ -1,0 +1,2 @@
+matplotlib>=3.7,<4
+pymongo>=4.6,<5

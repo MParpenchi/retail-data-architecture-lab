@@ -1,0 +1,7 @@
+{
+  "workload": "single-order lookup",
+  "sqlite_indexed_join_median_ms": 0.0481,
+  "jsonl_sequential_scan_median_ms": 9.8528,
+  "repetitions": 60,
+  "caveat": "SQLite indexed query vs unindexed JSONL file scan; NOT a SQL-vs-NoSQL performance comparison."
+}
